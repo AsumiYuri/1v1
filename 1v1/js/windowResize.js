@@ -3,7 +3,7 @@ isIframe = false;
 			isIframe = true;
 			function WindowResize() {
 				var v = window.innerWidth;
-				var maxRes = 1320;
+				var maxRes = 1820;
 
 				if (v < maxRes) {
 					var ads = document.getElementsByClassName('ad');
